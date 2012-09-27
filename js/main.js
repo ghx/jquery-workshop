@@ -1,4 +1,3 @@
-
 $(document).ready(function(){
 //console.log("test HX's first js");
     $("li").on("click", function () {
@@ -27,3 +26,5 @@ $(document).ready(function(){
 //    $("img").width(200);
 //    });
 });
+
+I was here!
